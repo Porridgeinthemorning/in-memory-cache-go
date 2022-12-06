@@ -1,3 +1,1 @@
-module in-memory-cache-go
-
-go 1.19
+module github.com/aleksiumish/cache
