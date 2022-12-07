@@ -1,6 +1,8 @@
 # In-memory cache go
 
-### Simple implementation of in-memory cache in Go
+## Simple implementation of in-memory cache in Go
+
+
 
 Implements a package with 4 methods:
 
@@ -8,6 +10,11 @@ Implements a package with 4 methods:
 - Set() - value entry to cache by key
 - Get() - getting value by key
 - Delete() - deleting value by key
+
+### Instalation 
+```go
+go get github.com/aleksiumish/in-memory-cache
+```
 
 ### Example #1
 #### Creating new cache object
