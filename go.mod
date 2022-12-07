@@ -1,1 +1,1 @@
-module github.com/aleksiumish/cache
+module github.com/aleksiumish/in-memory-cache

@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/aleksiumish/cache"
+	"github.com/aleksiumish/in-memory-cache"
 )
 func main() {
 	cache := cache.NewCache()
