@@ -32,8 +32,8 @@ func main() {
 ```
 ### Example #2
 #### 1. Value entry to cache by key
-#### 1. Getting value 
-#### 1. Delliting value
+#### 2. Getting value 
+#### 3. Delliting value
 ```go
 import (
 	"fmt"
